@@ -4,4 +4,4 @@ First I have used data augmentation and batch normalization techniques to improv
 This is the link for the dataset from the kaggle
 https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
 
-Using above techniques, I have achieved an accuracy of about 84% on the test dataset.
+Using above techniques, I have achieved an accuracy of about 83% on the test dataset.
